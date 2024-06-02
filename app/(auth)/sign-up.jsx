@@ -3,8 +3,8 @@ import {Text, View} from "react-native";
 
 const SignUp = () => {
     return (
-        <View>
-            <Text>SignUp</Text>
+        <View className="">
+            <Text className="">SignUp</Text>
         </View>
     );
 };
